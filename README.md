@@ -35,6 +35,8 @@ The application collects:
 Student-Details/
 │
 ├── index.html
+├── style.css
+├── script.js
 └── README.md
 ```
 
